@@ -50,8 +50,7 @@ num += '*'
 
 ### Languages:
 
-- English \- Intermediate/Upper-intermediate (according to the online test at ![EFset Logo](/images/efset-logo.png) [www.efset.org](https://www.efset.org/quick-check))<br>
-![EFset Score](/images/efset-english-level.jpg)
+- English: B2 
 - Russian \- Native
 
 
